@@ -1,0 +1,22 @@
+body {
+	background: url(Photos/1.jpg);
+	background-size:auto;
+}
+#topic {
+	color:#ffffff;
+	text-align: center;
+	font-size: 80px;
+	font-style:oblique;
+}
+#content{
+	color:#ffffff;
+	text-align: center;
+	font-size: 40px;
+	font-style:oblique;
+}
+a{color:#C1C1C1;
+	text-align: center;
+	font-size: 40px;
+	font-style:oblique;
+}
+a:hover{color:red;}
